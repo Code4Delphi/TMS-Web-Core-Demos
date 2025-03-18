@@ -15,6 +15,10 @@ Framework para criação de aplicações web modernas em Delphi
 
 https://www.tmssoftware.com/site/tmswebcore.asp
 
+## Documentação oficial
+[Documentação](https://download.tmssoftware.com/doc/tmswebcore/)
+[Ajuda](https://www.tmssoftware.com/site/tmswebcore.asp#product-help)
+
 
 ## 📞 Contatos
 
